@@ -18,7 +18,7 @@ print("Hello World!") # This command prints whatever you type inside the parenth
 # We will get into the "Errors" in the future!
 
 ## An interactive Coding Exercise 1 ##
-# The coding exercise is given in this MD file: https://github.com/AaryanKhClasses/Learning-Python-new/tree/main/src/Coding_Exercise_1.md
+# The coding exercise is given in this MD file: https://github.com/AaryanKhClasses/Learning-Python-new/tree/main/src/exercises/Coding_Exercise_1.md
 # I know thats a long hyperlink, but most code editors allows you to "Ctrl+Click" to follow that link!
 # I hope you have completed the exercise sincerely. Now lets move on.
 
@@ -58,7 +58,7 @@ print("Hello" + " " + "World!") # This will also fix the problem.
 # To avoid this, just make sure that there is no space at the begenning of any line.
 
 ## An Interactive Coding Exercise 3 ##
-# The coding exercise is given in this MD file: https://github.com/AaryanKhClasses/Learning-Python-new/tree/main/src/Coding_Exercise_2.md
+# The coding exercise is given in this MD file: https://github.com/AaryanKhClasses/Learning-Python-new/tree/main/src/exercises/Coding_Exercise_2.md
 # I hope you have completed the exercise sincerely. Now lets move on.
 
 # The Input Function
@@ -78,7 +78,7 @@ print("Hello " + input('What is your name? ')) # This will ask the user their na
 # This code, will be ignored by the interpreter.
 
 ## An Interactive Coding Exercise 3 ##
-# The coding exercise is given in this MD file: https://github.com/AaryanKhClasses/Learning-Python-new/tree/main/src/Coding_Exercise_3.md
+# The coding exercise is given in this MD file: https://github.com/AaryanKhClasses/Learning-Python-new/tree/main/src/exercises/Coding_Exercise_3.md
 
 # I hope you have completed the exercise sincerely. Now lets move on.
 
@@ -92,10 +92,17 @@ str = 'Hello World' # This will change the value stored in the variable "str" to
 print(str) # This will print "Hello World" instead of the inputted value.
 
 ## An Interactive Coding Exercise 4 ##
-# The coding exercise is given in this MD file: https://github.com/AaryanKhClasses/Learning-Python-new/tree/main/src/Coding_Exercise_4.md
+# The coding exercise is given in this MD file: https://github.com/AaryanKhClasses/Learning-Python-new/tree/main/src/exercises/Coding_Exercise_4.md
 # I hope you have completed the exercise sincerely. Now lets move on.
 
 # Naming variables
 # You can name a variable anything you want, but you should name your variables readable and understandable. Make your variables to be descriptive.
 # You can also have two or more words in a same variable, example "user_name" or "userName".
 # You can't add a space between the name of the variable and will give a SyntaxError.
+# You also can have numbers in your variable names, but they can't be the first character of the variable.
+# You should also avoid naming your variables as a reserved word in python (for example, "input" or "print").
+
+# Band Naming Project #
+# Check out the "project.py" file in the directory to see the project.
+
+# That was the end of the first day! Congratulations!
