@@ -5,7 +5,7 @@
 ### **Warning:** The output should be `exact`, meaning that all the characters should be same as given. This includes `character(letter) case`, `symbols` and even `spaces`!
 
 ### This is what is to be got in the `console` as your output:
-![Coding Exercise 1](./assets/coding_exercise_1.png)
+![Coding Exercise 1](../assets/coding_exercise_1.png)
 ---
 # Solution
 ### I recommend you **NOT** to see this before you solve this exercise.

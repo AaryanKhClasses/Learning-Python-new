@@ -4,7 +4,7 @@
 # Instructions:
 ### The output should be `exact`, meaning that all the characters should be same as given. This includes `character(letter) case`, `symbols` and even `spaces`!
 ### There should not be any errors in the code, and it should give the following output when ran:
-![Coding Exericse 2](./assets/coding_exercise_2.png)
+![Coding Exericse 2](../assets/coding_exercise_2.png)
 
 # Code:
 ### You have to fix the given code:

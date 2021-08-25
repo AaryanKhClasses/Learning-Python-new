@@ -6,7 +6,7 @@
 ### **HINT:** The "len()" function is used to count the number of characters of a string.
 ### Your code should work with any input provided.
 ### The output code should look like this:
-![](./assets/coding_exercise_3.png)
+![](../assets/coding_exercise_3.png)
 
 # Solution
 ### I recommend you **NOT** to see this before you solve this exercise.
